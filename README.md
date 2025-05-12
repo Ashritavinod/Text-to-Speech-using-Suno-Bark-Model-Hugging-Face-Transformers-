@@ -1,10 +1,10 @@
-# 🗣️ Text-to-Speech using Suno Bark Model (Hugging Face Transformers)
+# 🗣Text-to-Speech using Suno Bark Model (Hugging Face Transformers)
 
 This project demonstrates how to perform **text-to-speech (TTS)** conversion using the [Hugging Face `transformers`](https://huggingface.co/docs/transformers/index) library and the **`suno/bark-small`** pre-trained model. The audio is generated from a given input text and played directly within a Jupyter notebook environment.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This notebook performs the following tasks:
 
@@ -15,9 +15,9 @@ This notebook performs the following tasks:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
-### 🔧 Installation
+###  Installation
 
 Install the required packages using:
 
